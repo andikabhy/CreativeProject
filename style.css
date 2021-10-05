@@ -4,10 +4,11 @@
 
 .navbar a h4 {
   margin-top: -10px;
+  font-family: lobster;
 }
-.navbar a h1 {
-  color: white;
+.navbar a h2 {
   margin-top: -10px;
+  font-family: lobster;
 }
 
 .jumbotron {
@@ -18,4 +19,9 @@
 body {
   margin-bottom: 500px;
   background-color: rgb(247, 247, 247);
+}
+
+.jumbotron h1 {
+  font-family: lobster;
+  font-size: 55px;
 }
