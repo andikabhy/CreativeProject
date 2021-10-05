@@ -1,0 +1,21 @@
+.navbar a {
+  color: white;
+}
+
+.navbar a h4 {
+  margin-top: -10px;
+}
+.navbar a h1 {
+  color: white;
+  margin-top: -10px;
+}
+
+.jumbotron {
+  padding-top: 110px;
+  background-color: rgb(247, 247, 247);
+}
+
+body {
+  margin-bottom: 500px;
+  background-color: rgb(247, 247, 247);
+}
